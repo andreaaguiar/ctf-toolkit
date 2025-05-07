@@ -9,6 +9,7 @@ This repository contains a focused set of cheatsheets that can help with CTF cha
 ## Contents
 
 The [cheatsheets](./cheatsheets/) directory contains detailed reference guides for various CTF categories:
+
 - Reconnaissance
 - Scanning & Enumeration
 - Gaining Access
@@ -23,6 +24,7 @@ The [cheatsheets](./cheatsheets/) directory contains detailed reference guides f
 ## Related Projects
 
 If you find these cheatsheets helpful, you might also be interested in [pysec-toolkit](https://github.com/andreaaguiar/pysec-toolkit), a collection of practical Python scripts for security assessments, including:
+
 - Port Scanner
 - Network Scanner
 - SSH Brute Force

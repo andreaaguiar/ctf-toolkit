@@ -3,6 +3,7 @@
 This document provides installation instructions for the tools referenced in the CTF cheatsheets. Rather than providing a single `requirements.txt` file (which is more appropriate for Python projects with actual code), this guide organizes tools by category and provides system-level installation commands where applicable.
 
 ## Table of Contents
+
 - [General Setup](#general-setup)
 - [Reconnaissance Tools](#reconnaissance-tools)
 - [Scanning & Enumeration Tools](#scanning--enumeration-tools)
@@ -17,6 +18,7 @@ This document provides installation instructions for the tools referenced in the
 ## General Setup
 
 Most CTF tools work best on Linux-based systems. Consider using:
+
 - [Kali Linux](https://www.kali.org/) - Security-focused Linux distribution with many tools pre-installed
 - [Parrot OS](https://www.parrotsec.org/) - Another security-focused Linux distribution
 - Docker containers for isolated tool environments
@@ -145,26 +147,30 @@ pip install beautifulsoup4 # Web scraping
 pip install paramiko      # SSH client
 ```
 
-### Optional Python packages by category:
+### Optional Python packages by category
 
 #### Web Security
+
 ```bash
 pip install flask         # For creating mock servers
 pip install selenium      # For web automation
 ```
 
 #### Cryptography
+
 ```bash
 pip install cryptography  # Higher-level cryptographic library
 ```
 
 #### Forensics
+
 ```bash
 pip install python-magic  # File type detection
 pip install exifread      # EXIF data extraction
 ```
 
 #### Utilities
+
 ```bash
 pip install colorama      # Terminal color formatting
 pip install tqdm          # Progress bars
