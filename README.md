@@ -64,7 +64,3 @@ To install the tools used in these cheatsheets, see [TOOLS.md](./TOOLS.md). It c
 - System install commands for common CTF tools
 - Python package install steps by category
 - How to keep tools updated
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
