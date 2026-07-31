@@ -1,11 +1,4 @@
-<div align="center">
-
 # CTF Cheatsheets Collection
-
-![CTF](https://img.shields.io/badge/CTF-cheatsheets-1f6feb.svg)
-![Cheatsheets](https://img.shields.io/badge/cheatsheets-13-2ea44f.svg)
-![Last commit](https://img.shields.io/github/last-commit/andreaaguiar/ctf-toolkit.svg)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=fff)
@@ -14,8 +7,6 @@
 ![Hashcat](https://img.shields.io/badge/Hashcat-410099?logo=hashcat&logoColor=fff)
 
 A collection of cybersecurity cheatsheets for Capture The Flag (CTF) competitions and penetration testing.
-
-</div>
 
 ## About This Project
 
